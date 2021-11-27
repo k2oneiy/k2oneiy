@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @iyappan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java,python and php
+- 🌱 I’m currently learning Java,Python and PHP
 
 
 <!---
