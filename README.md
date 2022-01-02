@@ -1,7 +1,9 @@
 
-- 👋 Hi, I’m @iyappan
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning All  
+- 👋 Hi, I’m iyappan
+- I’m interested to learn programming
+- I’m currently learning All  
+- I am Not Programmer But i am Current learning Programming
+- 
 
 
 <!---
