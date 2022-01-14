@@ -1,6 +1,9 @@
 <h1>Iyappan</h1>
 <h3>Become A Developer</h3>
 
+## About me 
+I'm a software development engineer. I like to work with Laravel, NodeJS and Python. I love Linux Kernel based OSs such as Ubuntu and CentOS.
+I'm open-source development enthusiast.
 
 
 
