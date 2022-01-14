@@ -3,7 +3,7 @@
 Become a Developer
 
 ## About me 
-I'm a software development engineer. I like to work with Laravel, NodeJS and Python. I love Linux Kernel based OSs such as Ubuntu and CentOS.
+I'm Become a software development engineer. I like to work with Django, NodeJS and Python. I love Linux Kernel based OSs such as Ubuntu.
 I'm open-source development enthusiast.
 
 
