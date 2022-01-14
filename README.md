@@ -1,15 +1,12 @@
 <h1>Iyappan</h1>
-<h6>Become A Developer</h6>
+<h3>Become A Developer</h3>
 
 
 
 
+- I’m currently learning **laravel , React js , MERN stack**
 
-<p align="left"> <a href="https://twitter.com/iyappan" target="blank"><img src="https://img.shields.io/twitter/follow/iyappan?logo=twitter&style=for-the-badge" alt="iyappan" /></a> </p>
-
-- I’m currently learning **laravel , React js**
-
-- I’m looking for help with **job**
+- I need A Job
 
 - 📫 How to reach me **kiyappan104@gmail.com**
 
