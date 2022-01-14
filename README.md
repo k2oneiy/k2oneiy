@@ -1,7 +1,8 @@
-<h1>Hi, I am Iyappan</h1>
+<h1>Iyappan</h1>
+<h6>Become A Developer</h6>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k2oneiy&label=Profile%20views&color=0e75b6&style=flat" alt="k2oneiy" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k2oneiy" alt="k2oneiy" /></a> </p>
 
