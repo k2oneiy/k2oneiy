@@ -4,7 +4,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k2oneiy" alt="k2oneiy" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/iyappan" target="blank"><img src="https://img.shields.io/twitter/follow/iyappan?logo=twitter&style=for-the-badge" alt="iyappan" /></a> </p>
 
