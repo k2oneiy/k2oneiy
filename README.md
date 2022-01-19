@@ -19,6 +19,8 @@ I'm open-source development enthusiast.
 <p align="left">
 <a href="https://twitter.com/iyappan63967397" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iyappan63967397" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iyappan-k-11727720a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iyappan k" height="30" width="40" /></a>
+  <a href="https://instagram.com/iyappan073" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iyappan073" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/iyappanhacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="iyappanhacker" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
