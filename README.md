@@ -1,4 +1,4 @@
-# Iyappan { Developer }
+# Iyappan 
 
 Become a Developer
 
